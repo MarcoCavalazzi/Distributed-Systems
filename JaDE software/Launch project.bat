@@ -1,0 +1,1 @@
+java -classpath bin\;lib\jade.jar; jade.Boot -gui -agents CentralAgent:bin.project.CentralAgent;GroundAgent:bin.project.GroundAgent;BatteryAgent:bin.project.BatteryAgent

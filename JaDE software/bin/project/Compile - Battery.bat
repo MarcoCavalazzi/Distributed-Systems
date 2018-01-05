@@ -1,0 +1,2 @@
+javac BatteryAgent.java
+pause
